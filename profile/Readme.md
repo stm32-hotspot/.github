@@ -1,6 +1,6 @@
 <img src="https://www.st.com/content/dam/wiki-portal/STM32-generic.png" />
 
-# STMicroelectronics - STM32 Hotspot
+# STM32 Hotspot from STMicroelectronics
 
 Our technology starts with You in mind.
 At ST, we are creators of technology. We provide easy-to-use software development tools, design kits, and support educational initiatives to make our technologies accessible to more engineers and enthusiasts today.

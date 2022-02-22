@@ -1,4 +1,4 @@
-# <img src="https://www.st.com/content/dam/wiki-portal/STM32-generic.png" />
+<img src="https://www.st.com/content/dam/wiki-portal/STM32-generic.png" />
 
 # STMicroelectronics - STM32 Hotspot
 
